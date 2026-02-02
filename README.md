@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import div from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-div@deno/mod.js';
+import div from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-div@v0.1.1-deno/mod.js';
 ```
 
 #### div( x, y )
@@ -98,7 +98,7 @@ v = div( NaN, NaN );
 
 ```javascript
 import rand from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import div from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-div@deno/mod.js';
+import div from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-div@v0.1.1-deno/mod.js';
 
 var x;
 var y;
