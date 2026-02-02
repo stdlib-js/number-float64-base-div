@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-float64-base-div",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Divide two double-precision floating-point numbers.",
   "license": "Apache-2.0",
   "author": {
